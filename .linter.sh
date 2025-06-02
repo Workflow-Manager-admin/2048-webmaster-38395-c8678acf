@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/2048-webmaster-38395-c8678acf/2048_webmaster
+flutter analyze
+
