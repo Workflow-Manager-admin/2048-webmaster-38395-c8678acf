@@ -1,4 +1,4 @@
-name: 2048_webmaster
+name: twenty48_webmaster
 description: A web-based implementation of the classic 2048 puzzle game.
 publish_to: "none"
 version: 0.1.0
